@@ -2,8 +2,8 @@
 
 😄 On my profile you will find my passion side projects combining knowledge of  
 software engineering, web development, data science, and more!  
-💻 I’m currently working on securing a software engineering internship for summer 2024!  
-📖 I’m currently learning computer networking, artificial intelligence, and advanced algorithms  
+💻 Currently I'm beginning my software career as an associate software developer full-time 
+📖 I'm a proud graduate of The Ohio State University 
 ### Languages and Skills  
 <!-- badges found at https://github.com/Ileriayo/markdown-badges -->
 <div align="center">
